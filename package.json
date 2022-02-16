@@ -1,0 +1,24 @@
+{
+  "name": "typically-js-testing-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MVprogramm/typically-js-testing-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MVprogramm/typically-js-testing-/issues"
+  },
+  "homepage": "https://github.com/MVprogramm/typically-js-testing-#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.3",
+    "@babel/preset-env": "^7.16.11"
+  }
+}
